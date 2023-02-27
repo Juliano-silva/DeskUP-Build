@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f0721c62.css",
+    "main.js": "./static/js/main.37d41689.js",
+    "static/media/ChuvaRain.gif": "./static/media/ChuvaRain.a8abc920047b8b2aadc0.gif",
+    "static/media/StarRain.gif": "./static/media/StarRain.1cb242ce57d638d641a4.gif",
+    "static/media/SoleLua.png": "./static/media/SoleLua.8f2ed31f2cd53815705a.png",
+    "static/media/PokemonHollow.ttf": "./static/media/PokemonHollow.47f77ce9939c5330492b.ttf",
+    "static/media/Think-Bold.ttf": "./static/media/Think-Bold.cab272020acb459b2767.ttf",
+    "static/media/Celular.jpg": "./static/media/Celular.724acf80bfddbf9aa486.jpg",
+    "static/media/inverted-dice-6.png": "./static/media/inverted-dice-6.c46c98d96299182e927a.png",
+    "static/media/inverted-dice-5.png": "./static/media/inverted-dice-5.ac0eb39909e38b37bef5.png",
+    "static/media/inverted-dice-4.png": "./static/media/inverted-dice-4.29bf8d2fe74613c71340.png",
+    "static/media/inverted-dice-3.png": "./static/media/inverted-dice-3.d1260e4b5f47161ae8de.png",
+    "static/media/PokeBola.jpg": "./static/media/PokeBola.65b15f4726adcc81b300.jpg",
+    "static/media/inverted-dice-2.png": "./static/media/inverted-dice-2.74dd6e0dfa0f82061853.png",
+    "static/media/Droidiga.otf": "./static/media/Droidiga.b36b1a33a82b8ad9aa73.otf",
+    "static/media/inverted-dice-1.png": "./static/media/inverted-dice-1.6b2dd88c4069159cfdba.png",
+    "index.html": "./index.html",
+    "main.f0721c62.css.map": "./static/css/main.f0721c62.css.map",
+    "main.37d41689.js.map": "./static/js/main.37d41689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0721c62.css",
+    "static/js/main.37d41689.js"
+  ]
+}
